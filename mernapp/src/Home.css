@@ -1,0 +1,24 @@
+.result-box {
+  margin-top: 20px;
+  padding: 16px;
+  background-color: #fff !important; /* force white background */
+  border: 2px solid #444 !important; /* darker border */
+  border-radius: 8px;
+  color: #000 !important; /* force black text */
+  font-family: monospace, monospace !important;
+  font-size: 15px !important;
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+  overflow-x: auto;
+}
+
+.result-box h3 {
+  color: #0d47a1 !important; /* deep blue heading */
+  margin-bottom: 10px;
+}
+
+.result-box pre {
+  margin: 0;
+  color: #000 !important; /* force black text */
+  font-weight: bold !important;
+}

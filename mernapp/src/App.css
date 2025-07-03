@@ -1,0 +1,22 @@
+.result-box {
+  margin-top: 20px;
+  padding: 16px;
+  background-color: #ffffff; /* Pure white background for contrast */
+  border: 2px solid #444; /* Darker border */
+  border-radius: 8px;
+  color: #000000; /* Pure black text */
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.result-box h3 {
+  color: #0d47a1; /* Deep blue heading */
+  margin-bottom: 10px;
+}
+
+.result-box pre {
+  margin: 0;
+  color: #111111; /* Almost black for JSON content */
+}
